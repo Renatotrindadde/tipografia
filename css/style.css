@@ -1,0 +1,56 @@
+.footer{
+  background: #0F52BA;
+  
+}
+
+
+.footer1 .font {
+  color: #FFFFFF;
+  display: flex;
+
+}
+
+
+.selecionar {
+  text-align: right;
+  width: 85vw;
+
+}
+
+.font .footerfont {
+  
+  margin-left: 128px;
+  height: 8px;
+  font-weight: 600;
+
+}
+
+.font .footerfont1 {
+  padding-top: 20;
+
+  margin-left: 10px;
+}
+
+
+.topicos {
+  list-style-type: none;
+}
+
+
+.topicos {
+    display: grid;
+    grid-auto-flow: column;
+    grid-template-rows: 1fr 1fr;
+    text-align: center;
+    margin: 0;
+  }
+
+.card {
+  text-align: center;
+}
+
+.divindividual {
+  box-sizing: border-box;
+ 
+  
+}
